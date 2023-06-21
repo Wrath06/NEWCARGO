@@ -32,7 +32,17 @@
   .feedback label img:hover {
     border-color: #000;
   }
-  
+  .submit {
+  background-color: #616161;
+  color: #fff;
+    height: 41px;
+    width: 100px;
+    border-radius: 3px;
+    padding: 0;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+  }
   
   
   
